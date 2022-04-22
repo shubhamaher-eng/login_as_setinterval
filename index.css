@@ -1,0 +1,35 @@
+
+        #navBar {
+            margin-top: 1px;
+            display: flex;
+            justify-content: right;
+            padding: 20px;
+            background-color: rgb(64, 62, 62);
+            font-size: larger;  
+            width: 98.5%;        }
+        #navBar a:hover {
+           color: rgb(250, 90, 117);
+        }
+        a {
+            text-decoration: none;
+            color: white;
+        }
+        #navBar a {
+            cursor: pointer;
+        }
+        .home{
+            margin-right: 50px;
+        }
+        .login{
+            margin-right: 50px;
+        }
+        .signin{
+            margin-right: 50px;
+        } 
+        .intro-slideshow img {
+            width: 100%;
+            position: absolute;
+            height: 700px;
+            margin-top: 1px;
+            }
+    
