@@ -1,0 +1,18 @@
+input{
+    padding: 7px;
+    margin-left: 50px;
+}
+h1{
+    margin-left: 50px;
+}
+div{
+    width: 300px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+ #button{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
